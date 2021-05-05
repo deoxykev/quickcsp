@@ -1,0 +1,15 @@
+{
+  "name": "quickcsp",
+  "version": "1.0.0",
+  "description": "Recursively visits all links in a website concurrently and generates a CSP policy based on existing site content.",
+  "main": "generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Pham",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.10.0",
+    "prompt": "^1.1.0"
+  }
+}
